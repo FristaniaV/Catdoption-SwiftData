@@ -37,7 +37,7 @@ struct PetAdoptionView: View {
     //            breed: "Persia",
     //            weight: "3 kg",
     //            gender: "Male",
-    //            imageName: "Piko"
+    //            imageName: "Pikoooo"
     //        )
 //    ]
     
