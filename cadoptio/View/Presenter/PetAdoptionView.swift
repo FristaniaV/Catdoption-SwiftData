@@ -31,7 +31,14 @@ struct PetAdoptionView: View {
 //            weight: "5 kg",
 //            gender: "Male",
 //            imageName: "Sky"
-//        )
+//        ),
+    // PetModel(
+    //            name: "Piko",
+    //            breed: "Persia",
+    //            weight: "3 kg",
+    //            gender: "Male",
+    //            imageName: "Sky"
+    //        )
 //    ]
     
     var body: some View {
